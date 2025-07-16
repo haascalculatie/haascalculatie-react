@@ -1,1 +1,1 @@
-# haascalculatie-react
+# HaasCalculatie – React frontend demo
